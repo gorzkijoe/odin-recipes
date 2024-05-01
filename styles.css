@@ -1,0 +1,41 @@
+.main {
+    font-family:monaco, sans-serif;
+    font-size:16px;
+    text-align:center;
+    
+}
+
+.chicken {
+    font-family:monaco, sans-serif;
+    font-size:14px;
+}
+.title {
+    color:rgb(141, 84, 10);
+}
+
+.centered {
+    text-align:center;
+}
+.chicken ul,ol {
+    background-color:rgba(211, 211, 211, 0.202);
+}
+.center {
+   text-align: center;
+}
+
+hr {
+    width:280px;
+}
+
+.main a {
+    text-decoration: none;
+}
+
+em {
+    font-size:14px;
+}
+
+.back-home {
+    font-size:18px;
+    text-align: center;
+}
