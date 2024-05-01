@@ -5,18 +5,25 @@
     
 }
 
-.chicken {
+.recipes {
     font-family:monaco, sans-serif;
     font-size:14px;
 }
-.title {
+.title-chicken {
     color:rgb(141, 84, 10);
 }
+    
+.title-tacos {
+    color:rgb(183, 210, 101);
+}
 
+.title-pie {
+    color:rgb(246, 205, 73);
+}
 .centered {
     text-align:center;
 }
-.chicken ul,ol {
+.recipes ul,ol {
     background-color:rgba(211, 211, 211, 0.202);
 }
 .center {
